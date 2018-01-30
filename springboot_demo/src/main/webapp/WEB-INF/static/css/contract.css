@@ -1,0 +1,12 @@
+.contract{ width: 960px; margin: 0 auto; background-color: #fff; font-size: 13px; padding: 50px 20px 50px; margin-bottom: 10px; }
+.contract .bigTitle{ font-size: 13px; text-align:center;}
+.contract_info{ margin-top: 50px;}
+.contract div h2{ font-size: 14px;margin:10px 0 10px 0; }
+.contract div li{ line-height: 30px;}
+.contract p{ line-height: 25px;}
+.contract .service_provide span{  display: inline-block; text-align: left; width:170px;}
+.contract .marginBottom{ margin-bottom:30px; }
+.contract .ordered_list{ margin-left: 18px;}
+.contract .ordered_list li{ list-style-type:decimal; height: 30px; line-height: 30px;}
+.contract li .paddingLeft{ padding-left:20px;}
+.contract ul li span{ margin-right:5px;}

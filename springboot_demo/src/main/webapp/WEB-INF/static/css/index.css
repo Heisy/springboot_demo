@@ -1,0 +1,57 @@
+/*广告样式*/
+.banner{ width:100%; height:459px; overflow:hidden;}
+.advertise{width:1920px;height:459px;position:absolute; z-index:1;left:50%; margin-left:-960px;}
+.adBanner{position:relative;width:1920px;height:459px;overflow:hidden;left:50%; margin-left:-960px;}
+.bannerPic{background-color:#333;background-repeat: no-repeat;background-position: 50% 0;width: 1920px;height: 459px;z-index:2;margin:0;padding:0;left:0;position:relative;}
+.bannerPic li{list-style:none;float:left;width:1920px;overflow:hidden;}
+.bannerPic img{ height:459px; width:1920px;}
+.adBanner .bannerBtn{width:83px;height:11px;position:absolute;left: 50%;margin-left: -26px;bottom: 20px;z-index: 4;}
+.adBanner .bannerBtn a{display:block;width:8px;height:8px;overflow:hidden;float:left;text-indent:-80px;background-color:#FFF;}
+.btnActive{background-color:#ce433c !important;}
+.banner_main{ width:1000px; position:absolute; left:50%; z-index:888; margin-left:-500px;}
+.banner_content{ width:635px; height:250px; padding-top:86px; float:left; margin-left:60px;}
+.banner_content h2{ font-size:48px; color:#e73648; margin-bottom:15px; font-weight:normal;}
+.banner_content li{font-size:22px; color:#fefefe; height:40px; line-height:40px; background:url(../images/dunpai_icon.png) 5px center no-repeat; padding-left:38px;}
+.banner_content .btn{ width:}
+.banner_btn{ position:absolute;}
+.btn_op{ width:171px; height:50px; background-color: #fff; filter:alpha(opacity=50); opacity:0.5; margin-top:40px; background:url(../images/banner_btn.gif) no-repeat;background-size: 23px 25px;  border:1px #fff solid; border-radius:5px; margin-left:4px;}
+.banner_btn a{color:#fff; font-size:20px; width:170px; height:50px; display:block; cursor:pointer; text-indent:35px; position:relative; margin-top:-50px; background:url(../images/left_icon.png) 130px 17px  no-repeat; line-height:50px;margin-left:4px;}
+
+.logined{z-index:2; position:absolute; top:0; width:344px; display:none;}
+.logined h2{ font-size:18px;color:#fff; margin-bottom:20px;padding-left:40px; margin-top:40px;}
+.logined p{ font-size:14px; color:#ccc; margin-bottom:20px;padding-left:40px;}
+.logined span{ color:#d9d212;padding-left:40px; font-size:15px;}
+.logined .login_btn_enter{ width:297px; height:50px; background:url(../images/login_btn.gif) no-repeat 0 center; display:block; font-size:18px; color:#fff; line-height:50px; text-align:center; letter-spacing:1px;margin-top:30px; margin-left:auto; margin-right:auto;}
+/*内容样式*/
+.content{ width:100%; height:243px; margin:0 auto ; padding-top:30px;}
+.content_main{ width:1000px; margin:0 auto;}
+.content_main_div{width: 461px; height: 190px;float: left;  background:#fff; margin-bottom: 30px; padding: 9px 10px 0 17px;}
+.content_main_leftDiv{ margin-right: 22px;}
+.content_main_div_left{ width:230px;}
+.content_main_div_left h2{ color: #333; font-size: 20px; height: 30px; line-height: 30px;}
+.content_main_div_left h2 label{font-size: 14px;}
+.h2_instructions{ color: #acacac; font-size: 12px; margin-bottom: 5px;}
+.content_main_div_left p{ height: 25px; line-height: 25px;}
+.content_main_div_left .buy_info{ color: #777; font-size: 14px;}
+.content_main_div_right{ width: 230px;}
+.content_main_div_right p{ text-align: right; margin-right: 10px;}
+.content_main_div_right b{ padding: 3px 12px; display: inline-block; color: #fff; font-weight: normal;}
+.content_main_div_right .monetary_fund{  margin-left: 86px; background-color: #5e7ceb;}
+.content_main_div_right .monetary_fund_risk{ background-color: #35bd39; margin-left: 10px;}
+.content_main_div_right_yield{ color: #da273d; margin-top: 25px;}
+.content_main_div_right .percent{font-size:40px; color: #da273d; font-weight: bold;}
+.content_main_div_button{ margin-top: 8px; width:192px; height: 38px; display: inline-block; background-color: #f8b030; line-height: 38px; text-align: center; font-size: 14px; color: #fff;}
+.content_main_div_details{ margin-top:8px;width:192px; height: 38px; display:block; background-color: #b6b6b6; line-height: 38px; text-align: center; font-size: 14px; color: #fff; cursor: auto ;}
+.content_main_div_button:hover{filter:alpha(opacity=80); opacity:0.8;};
+.content_main_div_right .financial{ background-color: #5e7ceb;}
+.content_main_div_right .financial_risk{background-color: #f97b00; margin-left: 10px;}
+.content_main_div_right .p2p_info{ background-color: #eb685e;margin-left: 10px;}
+.content_main_div_right .p2p_risk{background-color: #ba261a; margin-left: 10px;}
+.content_main_div_right .p2p{ margin-left: 30px;}
+.progress{ width: 193px; display: block; margin-top: 15px;}
+.progress .progress_bar{ width: 193px; background-color: #ddd; height: 6px; overflow: hidden;}
+.now_length{ display: inline-block;  background-color: #1299ff;  height: 6px;}
+.progress .progress_money{ text-align: right; height: 25px; line-height: 25px; font-size: 13px; color: #777; margin-top: 5px;}
+.progress .progress_money i{margin:0 5px; font-style: normal; }
+.fulled_scale{ width:109px; height: 109px; position: relative; background: url(../images/wished.png) no-repeat 0 0; margin-left:138px; top: -38%;}
+.content_main_div_left a h2{width:240px;}

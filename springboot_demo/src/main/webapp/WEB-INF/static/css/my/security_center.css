@@ -1,0 +1,15 @@
+.security_center{ width: 970px; margin: 0 auto; background-color: #fff; padding: 0 15px;}
+.security_center h2{ font-size: 16px; height: 49px; line-height: 49px;color: #383838; border-bottom: 1px solid #e5e5e5;}
+.security_center_data{ padding: 0 40px;}
+.security_center_table td{height: 70px; border-bottom: 1px solid #f6f6f6;}
+.security_center_table td label{ cursor: pointer;}
+.security_center_table td input{ vertical-align: middle; margin-right: 5px;}
+.security_center_table .lineHeight{line-height: 110px;}
+.security_center_table .paddingTop{ padding-top: 40px;}
+.security_center_table .title{ font-size: 16px;}
+.security_center_table .finished{ color: #59a13b;}
+.security_center_table .security{ padding: 40px 90px 0 0;}
+.security_center_table .set{ font-size: 15px;color: #73abd9; text-align: right;}
+.security_center_table .set a{ margin-left: 17px;color: #73abd9; }
+.security_center_table .set a:hover{ text-decoration: underline;}
+.security_center_table .finished_not{ opacity: 0.3; filter:alpha(opacity=30);}

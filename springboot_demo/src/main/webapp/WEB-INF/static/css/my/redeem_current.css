@@ -1,0 +1,57 @@
+.shift_out{width: 960px; background-color: #fff;color: #383838;  padding:10px 20px 30px 20px; display: inline-block; margin-left: 20px;}
+.shift_out h3{height: 30px; line-height: 30px;padding-bottom: 10px; margin-bottom: 43px;font-size: 14px; border-bottom: 1px solid #ccc;}
+.shift_out_info{ padding: 0 0 70px 30px; font-size: 14px;}
+.shift_out_info .balance{ height: 25px; margin-bottom:10px; }
+.shift_out_info .balance b{ font-size: 14px;}
+.shift_out_info_title{ font-size: 16px !important; }
+.select_card_span{vertical-align: top; height: 66px;}
+.shift_out_info span{ width: 170px;  display: inline-block; text-align: right;}
+.shift_out_info b{ font-size: 12px; color: #383838;}
+.shift_out_info p{ display: inline-block; color:#999; font-size: 12px; text-indent: 5px;}
+.shift_out_info strong{ font-weight: bold; color: #e1aa00; margin:0 2px;}
+.select_card_select{ background-color:#ecf3f8;width: 378px; display: inline-block;border:1px solid #90c1dc; padding: 10px 0 0 10px; }
+.select_card_select input{ vertical-align:middle; margin-right: 10px;}
+.select_card_select li{height: 30px; line-height: 30px;}
+/* .select_card_select .last_num{ width: 35px; margin-right: 75px;} */
+.select_card_select_top img{ vertical-align: middle; margin-right: 15px; }
+.select_card_select_top label{ cursor: pointer;}
+.select_card_select_top a{ font-size: 12px; text-align: center; color: #fff; background-color: #73a6cb;}
+.deposit_card{ margin-right:12px; width: 42px; height: 16px;line-height: 16px; display: inline-block; }
+.quick_card{ width: 30px; height: 16px; line-height: 16px; display: inline-block;}
+.select_card_select_info{ width: 333px; margin-left: 25px; border-top: 1px dashed #ccc; font-size: 12px; color: #959595;}
+.select_card_select_info span{ width: 138px; display: inline-block; text-align: left}
+.select_card_select_info b{font-weight: normal; color: #0066bb; cursor: pointer;}
+.select_card_add_card{  text-indent:14px;font-size: 12px;color: #0066bb; width: 75px; height: 25px; display: inline-block; background: url(../../images/add_card.png) no-repeat left 5px;}
+.add_card { margin: 10px 0 20px 0;}
+.add_card span{height: 25px; width: 113px; display: inline-block;text-align: right; vertical-align: middle;}
+.transfer_input, .check_pwd{ width: 162px; padding-left: 8px; height: 28px; margin-right: 5px;}
+.shift_out_info > ul > li{ margin: 10px 0; }
+.shift_out_info .check{ background: url(../../images/ok_icon.png) no-repeat left center; padding-left: 20px;}
+.shift_out_info_time{ height: 30px; line-height: 30px;}
+.shift_out_info_time b{ font-weight: normal !important; font-size: 12px;}
+.shift_out_info_time strong{ font-weight: normal;}
+.shift_out_info_safe{ margin:10px 0 25px 0;}
+.shift_out_info_safe i{padding-left:17px;font-style: normal; font-size: 12px; width: 405px; display: inline-block;background: url(../../images/ok_icon.png) no-repeat left center;}
+.shift_out_info_pwd{ width: 182px; height: 22px;}
+.shift_out_info_li_pwd{ margin-bottom: 30px;}
+.shift_out_info_li_pwd b{ font-weight: normal; color: #0099cc; margin-left: 10px; cursor: pointer;}
+.shift_out_info_btn { width: 135px; height: 38px;display: inline-block; background-color: #f7a82e; text-align: center; line-height: 38px; color: #fff; font-size: 14px;}
+.shift_out_info_btn:hover{opacity: 0.8; filter:alpha(opacity=80);}
+.shift_out_info .mRight{ margin-right: 4px;}
+.select_card_bank{ width: 378px; display:  inline-block;}
+.select_card_bank ul{ margin-bottom: 10px;}
+.fast_ordinary_redempte{ height: 47px;  float: left;}
+.fast_ordinary_redempte_li_label{border: 1px solid #bfbfbf; display: inline-block;background-color:#f0f2f5; vertical-align: middle; padding-top: 3px;}
+.fast_ordinary_redempte_li_active{ background-color: #fff;border: 2px solid #f60;background: url(../../images/hook.png) no-repeat right bottom;}
+.fast_ordinary_redempte li p{ display: block;  color: #000;font-size: 15px;}
+#p_acive{color: #f60; font-weight: bold;}
+.fast_ordinary_redempte li b{  font-size: 15px;font-weight: bold;}
+.fast_ordinary_redempte li .ordinaryLabel_div{width: 172px; height: 45px; background: url(../../images/redempte_style_icon_ord.png) no-repeat 7px center; padding-left: 42px;}
+.fast_ordinary_redempte li .fastLabel_div{width: 228px; height: 45px; background: url(../../images/redempte_style_icon_f.png) no-repeat 7px center; padding-left: 57px;}
+.fast_ordinary_redempte li{ float: left; margin-right: 15px;}
+#fast{ vertical-align: middle;}
+#ordinary{ vertical-align: middle;}
+.shift_out_info .shift_out_info_redemption_way{ margin-bottom: 24px;}
+.shift_out_info .addCard{ color: #06b;}
+.fast_ordinary_redempte li i{ color: #808080; font-style: normal; margin-left: 5px;}
+.li_btn{ margin-top: 30px;}

@@ -1,0 +1,18 @@
+.loginning{  display:none;width: 610px; background-color: #fff; padding-left: 30px;position: absolute;left: 50%;top:50%; margin-top:-150px;margin-left: -320px;height: 300px; z-index: 889;}
+.close{ cursor:pointer;display: inline-block; width: 14px; margin-top:17px; margin-left:582px; }
+.loginning h2{ margin-bottom:10px;height: 34px; line-height: 12px; font-weight: normal;}
+.loginning_left{ width: 324px; float: left; }
+.loginning_left li{ width: 294px; }
+.pass{ margin-bottom: 20px;width: 36px; background: url(../images/password_icon.png) no-repeat 10px 10px;}
+.user{ margin-bottom: 25px;width: 36px; background: url(../images/username_icon.png) no-repeat 10px 10px;}
+.same_height{ height: 36px; border:1px solid #ccc;padding-left: 32px;}
+.same_height input{ height: 36px;width:290px; border: none; line-height: 36px;}
+.loginning_left .forgot_pw{ margin-bottom:15px;text-align: right; width: 320px; height: 20px; cursor: pointer; color: #777;}
+.login_btn a{ text-align: center; font-size: 14px; color: #fff; margin-right: 15px; width: 128px; height: 40px; line-height: 40px; display: inline-block; background-color: #f72d39;}
+.login_btn a:hover{opacity: 0.8; filter:olpha(opacity=80);}
+.login_btn b{ font-weight: normal; color: #73a3cb; cursor:pointer;}
+.loginning_right{ text-align:center;color:#5f5f5f;float:right; height:195px;width: 257px; background: url(../images/loginning_line.png) no-repeat left top;}
+.loginning_right p{ font-size: 22px; font-style: italic; margin:30px 0 5px 0;}
+.loginning_right i{ width:150px; height:25px; display:block;font-size: 14px; margin: 0 auto 20px;}
+.loginning_right a{ width: 130px; height: 32px; line-height: 32px; display: block; margin: 0 auto; color: #383838; background-color: #f3f3f3; border: 1px solid #ccc; text-align: center;}
+.loginning_right a:hover{opacity: 0.8; filter:olpha(opacity=80);}

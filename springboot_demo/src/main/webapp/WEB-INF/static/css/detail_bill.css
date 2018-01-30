@@ -1,0 +1,207 @@
+/*新版详情*/
+.details_new_banner{
+	background: none;
+	background-color: #db0028 !important;
+}
+.details_new_banner .details_banner_info p{
+	color: #fff;
+}
+.details_new_top{
+	padding-bottom: 40px;
+}
+.details_new_top_up ul li{
+	float: left;
+	padding: 0 55px;
+}
+.details_new_top_up ul li span{
+	height: 30px;
+	line-height: 30px;
+}
+.details_new_top_up ul li p{
+	font-size: 24px;
+	line-height: 60px;
+	font-weight: 700;
+}
+.details_new .big_font p{
+	font-size: 48px !important;
+	color: #ff0133;
+
+}
+.details_new_top_down{
+	margin-top: 20px;
+}
+.details_new_top_down_left{
+	background-color: #f6f6f6;
+	height: 18px;
+	line-height: 18px;
+	padding: 14px 0 14px 30px;
+	width: 620px;
+}
+.details_new_top_down_left p{
+	float: left;
+	height: 13px;
+}
+.details_new .percent_pic{
+	display: inline-block;
+	*zoom: 1;
+	background-color: #d1cfd0;
+	width: 100px;
+	height: 13px;
+	position: relative;
+	top: 2px;
+	margin: 0 10px;
+}
+.details_new .jindutiao{
+	background-color: #fd0031;
+	width: 100px;
+	height: 13px;
+	display: inline-block;
+	*zoom: 1;
+	position: absolute;
+}
+.details_new_top_down_left .jindu{
+	margin-right: 50px;
+}
+.details_new_top_down_left .time{
+	margin-right: 30px;
+}
+.details_new_top_down_left .time span{
+	margin-left:5px; 
+	font-weight: 700;
+}
+.details_new_top_down_left i{
+	background: url("../images/spt.png") no-repeat scroll 3px -146px rgba(0, 0, 0, 0);
+    display: inline-block;
+    height: 18px;
+    vertical-align: middle;
+    width: 18px;
+}
+.details_new_top_down_left .prompt{
+	color: #00a726;
+}
+.details_new_top_down_btn{
+	border: none;
+	background-color: #d1cfcf;
+    border-radius: 5px;
+    color: #fff;
+    cursor: not-allowed;
+    display: inline-block;
+    font-size: 18px;
+    height: 47px;
+    line-height: 46px;
+    text-align: center;
+    width: 240px;
+    vertical-align: top;
+}
+.details_banner2{
+	width: 900px;
+	margin-bottom: 25px;
+}
+.details_new_content_menu{
+	border-top:2px solid #e0e0e0;
+}
+.details_new_content_menu li{
+	float: left;
+}
+.details_new_content_menu li a{
+	display: block;
+	font-size: 14px;
+    height: 54px;
+    line-height: 54px;
+    margin-bottom: 5px;
+    margin-right: 30px;
+    color: #777;
+}
+.details_new_content_menu_a_active{
+	border-top:2px solid #ffb344 !important;
+    color: #383838 !important;
+    margin-top: -2px;
+}
+.details_new_fund_info{
+	margin-bottom: 30px;
+    width: 900px;
+}
+.details_new_fund_info_span_right{
+	background: none repeat scroll 0 0 #fff;
+    color: #383838;
+    float: left;
+    line-height: 25px;
+    padding: 15px 0 15px 25px;
+    position: relative;
+    width: 735px;
+}
+.details_new_fund_info_span_left{
+	background: none repeat scroll 0 0 #f2f2f2;
+    color: #777;
+    display: block;
+    float: left;
+    line-height: 25px;
+    padding: 15px;
+    width: 105px;
+}
+.details_new_fund_info>p{
+	border-bottom: 1px solid #e7e7e7;
+    color: #383838;
+    font-size: 14px;
+    line-height: 25px;
+    margin: 0;
+    overflow: hidden;
+}
+.purpose{
+	 border-top: 2px solid #ddd;
+    padding: 20px 0 0;
+}
+.purpose p{
+	margin-bottom: 20px;
+}
+.check_info{
+	padding-bottom: 40px;
+}
+.check_info li{
+	float: left;
+	color: #383838;
+    font-size: 14px;
+    padding-left: 64px;
+    height: 40px;
+    line-height: 40px;
+}
+.icon-right{
+	background: url("../images/spt.png?2015010816") no-repeat scroll -101px -100px rgba(0, 0, 0, 0);
+    display: inline-block;
+    height: 12px;
+    margin-right: 7px;
+    vertical-align: middle;
+    width: 16px;
+}
+.purpose >p{
+	font-size: 16px;
+	color: #777;
+}
+.purpose img{
+	height: 132px;
+    width: 132px; 
+}
+.deposits_history th{
+	border-bottom: 2px solid #c5ced2;
+	background-color: #fbfbfb;
+}
+.deposits_history th,td{
+	height: 35px;
+	line-height: 35px;
+}
+.deposits_history td{
+	text-align: center;
+}
+.deposits_history_td_grey{
+	background-color: #f5f5f5;
+}
+.faq h3{
+	height: 30px;
+	line-height: 30px;
+	margin: 10px 0;
+}
+.faq ul li{
+	height: 25px;
+	line-height: 25px;
+	padding-left: 10px;
+}

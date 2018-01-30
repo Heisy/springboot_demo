@@ -1,0 +1,127 @@
+.bankcard_main {
+	margin: 30px auto 0;
+	overflow: hidden;
+	width: 1000px;
+	background-color: white;
+}
+
+.bankcard_title {
+	margin: 20px;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.bankcard_remove {
+	border: 2px #B0C7D4 solid;
+	width: 300px;
+	height: 180px;
+	border-radius: 5px;
+	background-color: #F8F8F8;
+	float: left;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+.bankcard_add {
+	overflow: hidden;
+}
+
+.bank_name {
+	height: 60px;
+	width: 100%;
+}
+
+.bank_img {
+	width: 30px;
+	/*margin-top:10px;
+	margin-left:10px;*/
+}
+
+.bank_name_div {
+	line-height: 30px;
+	height: 30px;
+}
+
+.bank_name div {
+	float: left;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+.bankcard_num div {
+	margin-left: 30px;
+	float: left;
+	height: 100%;
+	font-weight: Arial !important;
+	font-size: 20px;
+}
+
+.bankcard_num {
+	height: 80px;
+	line-height: 70px;
+}
+
+.date_time {
+	height: 40px;
+	border-top: 1px;
+	color: #A4A4A4;
+}
+
+hr {
+	border: 1px #E5E5E5 solid;
+}
+
+.date_time div {
+	
+}
+
+.date_time_time {
+	height: 40px;
+	line-height: 40px;
+	margin-left: 15px;
+	float: left;
+}
+
+.date_time_date {
+	height: 40px;
+	line-height: 40px;
+	float: left;
+}
+
+.date_time_delete {
+	height: 40px;
+	line-height: 40px;
+	float: right;
+	margin-right: 20px;
+	color: #3091c3;
+	cursor: pointer;
+}
+
+.bankcard_addinfo {
+	border: 2px #E9EBEB dashed;
+	width: 300px;
+	height: 180px;
+	border-radius: 5px;
+	float: left;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+.bankimg {
+	margin-left: 100px;
+	margin-top: 45px;
+	cursor: pointer;
+}
+
+.bankfont {
+	text-align: center;
+	margin-top: 10px;
+	color: #268cc1;
+	cursor: pointer;
+}
+
+.line {
+	margin-bottom: 30px;
+	width: 96%;
+	margin-left: 2%;
+}

@@ -1,0 +1,123 @@
+.content {
+	width: 1000px;
+	margin: 30px auto 0;
+}
+.recharge {
+	padding: 10px 0 40px 0;
+	background-color: #fff;
+	font-size: 14px;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-os-border-radius: 5px;
+}
+.shift_out_new_bottom {
+	margin: 10px 30px;
+}
+.shift_out_new_bottom>ul>li {
+	line-height: 35px;
+}
+.shift_out_new_bottom>ul>li>span {
+	float: left;
+	width: 120px;
+	text-align: right;
+	margin-right: 5px;
+	color: #a1a1a1;
+}
+.shift_out_new_bottom>ul>li>b {
+	float: left;
+	font-weight: normal;
+}
+.shift_out_new_bottom>ul>li>input {
+	height: 30px;
+	line-height: 30px;
+	margin-right: 5px;
+	padding-left: 10px;
+}
+.fl {
+	float: left;
+}
+.shift_out_new_bottom>ul>li>i {
+	font-style: normal;
+	font-size: 12px;
+	color: #a1a1a1;
+}
+.recharge .bg {
+	margin: 10px 0 0 0;
+}
+.bg .orange {
+	/*background-color: #fee0ba;*/
+	border: 4px solid #efda87;
+	/*padding: 3px;*/
+	float: left;
+	width: 750px;
+}
+.orange>p {
+	background-color: #fff;
+	width:249px;
+	float:left;
+}
+
+.bank_select {
+	border-bottom:1px solid #ddd;
+	border-right:1px solid #ddd;
+}
+.recharge .orange input {
+	margin: 0 5px;
+}
+.bank_select>label {
+	margin-right: 10px !important;
+}
+.orange>p>label>img {
+	width: 110px;
+	vertical-align: middle;
+}
+.pay_pwd {
+	width: 200px;
+	height: 28px;
+	float: left;
+}
+.color {
+	color: #87bef1;
+	float: left;
+}
+.shift_out_new .btn {
+	margin: 0 155px;
+}
+.shift_out_new .btn>p {
+	line-height: 38px;
+	height: 38px;
+	vertical-align: middle;
+}
+.shift_out_new .btn>p>span {
+	float: left;
+	width: 120px;
+	text-align: right;
+	margin-right: 5px;
+	color: #a1a1a1;
+	display: block;
+	line-height: 38px;
+	height: 38px;
+	visibility: visible;
+}
+.btn #checkbox {
+	margin-right: 5px;
+}
+.shift_out_new .btn input {
+	float: left;
+	vertical-align: middle;
+	display: block;
+	height: 38px;
+}
+.shift_out_new .btn label a {
+	color: #87bef1;
+}
+.shift_out_new .btn .sub {
+	float: left;
+	background-color: #f8b030;
+	height: 38px;
+	width: 153px;
+	border: none;
+	color: #fff;
+	font-size: 14px;
+}

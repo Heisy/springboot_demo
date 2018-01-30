@@ -1,0 +1,28 @@
+.withdrawal { width: 943px; margin: 0 auto; background-color: #fff;padding: 0 20px 80px 20px;}
+.withdrawal ul{  padding:  0 23px;}
+.withdrawal h2{ height: 48px; line-height: 52px; font-size: 16px;padding-left: 7px;border-bottom: 1px solid #e5e5e5;}
+.withdrawal .withdrawal_info{ font-size: 14px; color: #646464; }
+.withdrawal .withdrawal_info li{ line-height: 40px;height:auto;}
+.withdrawal_info_li_left{ width: 15%; display: inline-block; text-align: right;float:left;}
+.withdrawal .withdrawal_info_li_one{padding-top: 28px; /*border-bottom: 1px dashed #e3e3e3;*/min-height:40px;height:auto;}
+.withdrawal_info_li_one span{ vertical-align: text-bottom;}
+.withdrawal_info_li_one p{ display: inline-block; vertical-align: top;}
+.withdrawal_info_li_one p input{ vertical-align: middle; margin: 0 7px;}
+.withdrawal_info_li_one p label{ width: 70px; height: 36px; /*background: url(../../../images/bank-zhaoshang-123x36.png) no-repeat 4px center; */display: inline-block;vertical-align: middle; border: 1px solid #ddd; padding-left: 126px;}
+.withdrawal_info_li_one b{ cursor:pointer;margin-left:15px;font-weight: normal; color: #06b; vertical-align: top; background: url(../images/add_card.png) no-repeat left center; padding-left: 11px;}
+.withdrawal_info li .input{border: none; margin-right: 4px; width: 94px; padding-left: 8px; height: 28px; border:1px solid #d8d8d8;border-radius: 3px;-os-border-radius: 3px;-webkit-border-radius: 3px;-moz-border-radius: 3px; }
+.withdrawal_info_li_right_getCode{ font-weight: normal; width: 84px; height: 28px; line-height: 28px; cursor: pointer; display: inline-block; text-align: center; background-color: #ededed;border-radius: 3px;-os-border-radius: 3px;-webkit-border-radius: 3px;-moz-border-radius: 3px;  vertical-align: middle;}
+.withdrawal_info_li_right_getCode:hover{ color: #999;}
+.withdrawal_info .btn{border:none;width: 135px; height: 40px; background-color: #f3f3f3; color: #383838; font-size: 14px;}
+.withdrawal_info .btn:hover{ background-color: #f8a930; color:#fff;}
+.withdrawal_info_btns{margin-top: 30px;}
+.withdrawal_info{ padding-bottom: 58px !important;}
+.withdrawal_info_btns_confirm{ margin-right: 20px;}
+.withdrawal_info_li_right_info{ margin-left: 46px;}
+.withdrawal_prompt h5{font-size: 14px;color: #4f4f4f; height: 38px; line-height: 57px; font-weight: normal;}
+.withdrawal_prompt{border-top: 1px dashed #e3e3e3; margin:  0 23px;}
+.withdrawal_prompt li{list-style: decimal outside none !important; font-size: 13px;color: #4f4f4f; line-height: 25px; }
+.withdrawal_prompt_ol{ margin-left: 25px;}
+.withdrawal_prompt_ol span{ color: #d38382;}
+.withdrawal_cardList{float:left;width:85%;}
+.withdrawal_first_li{height:auto;min-height:40px;overflow:hidden;padding-bottom:28px;border-bottom: 1px dashed #e3e3e3;}

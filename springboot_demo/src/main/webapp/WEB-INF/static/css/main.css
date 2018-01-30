@@ -1,0 +1,49 @@
+/*导航样式*/
+.header{ height:78px; line-height:78px; margin:0 auto; background-color:#fff; }
+.header_main{ width:1000px; margin:0 auto;}
+.logo img{ margin-top:14px; width:154px; height:50px; float:left; margin-left:5px;}
+.login_register{ float:right; width:253px; }
+.login_register .login{margin:0 15px 0 25px;}
+.login_register a{ width: 102px; height: 40px; line-height: 40px; display: inline-block; text-align: center; font-size:14px; color: #3a3a3a; border: 1px solid #ccc;}
+.login_register .login{ background-color: #f82f3c; color: #fff; }
+.login_register a:hover{background-color: #f82f3c; color: #fff;}
+
+/*底部样式*/
+.footer{ width:100%;color:#7c7c7c;margin-top: 30px;}
+.footer a:hover{ color:#f95757;}
+.footer_main{ width:1000px; margin:0 auto;}
+.footer_main_about{ color:#7c7c7c;  border-bottom:1px #e5e5e5 solid; height:25px; line-height:25px; margin:15px 19px 15px 0; padding-bottom:15px;}
+.footer_main_about span{ padding:0 15px 0;}
+.introduce{ padding-left:30px;}
+.online_service{ margin:15px;border-bottom:1px #e5e5e5 solid;}
+.xinl{ width:100px; height:30px; float:left; margin-right:13px;}
+.weix{ width:100px; height:30px; float:left; margin-right:13px;}
+.tens{ width:114px; height:30px; float:left;}
+.online_service_left{ width:650px; float:left}
+.online_service_right{ width:120px; float:right; padding-right:40px;}
+.online_service_right img{ padding-left:20px; margin-bottom:10px;}
+.online_service_right span{ padding-left:15px; width:150px; display:block}
+.footer_main_blogroll a{ padding-left:13px; color:#7c7c7c;}
+.footer_main_service{ margin-top:15px;margin-bottom:15px; height:38px; line-height:38px;}
+.footer_main_service span{ height:38px; line-height:38px; width:60px; display:block; float:left;}
+.footer_main_about a {color: #7c7c7c;}
+.footer_main_service a{ cursor:pointer;}
+.footer_main_service img{ float:left; margin-right:7px; margin-left:5px; }
+.footer_main_copyright{ width:530px; margin: 0 auto; padding-bottom:35px; height:22px; line-height:22px;}
+
+
+/* loading */
+/*.wait_div{  display:none;width: 200px; height: 50px; background-color: #fff; padding: 30px;position: absolute;left: 50%;top:50%; margin-top:-100px;margin-left: -100px; font-size: 16px;z-index: 889;}*/
+.loading{ width: 300px; height: 120px; box-shadow: 0 1px 10px #ccc;-ms-box-shadow: 0 1px 10px #ccc;-os-box-shadow: 0 1px 10px #ccc;-moz-box-shadow: 0 1px 10px #ccc;-webkit-box-shadow: 0 1px 10px #ccc; padding: 40px 0 0 40px; position: absolute; left: 50%;top:50%; margin-left: -170px; margin-top: -100px; text-align: left;z-index: 999; background-color: #f6f6f6;}
+.loading_wait span{ height: 32px; line-height: 32px; vertical-align: top; font-size: 14px; margin-left: 13px;}
+.loading_btn_confirm{ margin-right: 20px;}
+.loading_btn{ margin-left: 95px;}
+.loading input{width: 70px; height: 30px; border: none; background-color: #f8a82e; margin-top: 10px;  cursor: pointer;margin-right: 7px; font-size: 14px; color: #fff;}
+.loading input:hover{opacity: 1; filter:alpha(opacity=100);}
+.loading_only{ display:none; padding-left:20px;width: 240px; height: 50px;box-shadow: 0 1px 10px #ccc; line-height: 50px; border: 2px solid #fff; background-color: #fff; opacity: 1; filter:alpha(opacity=100);position: absolute; left: 50%; margin-left: -120px; top: 50%; margin-top: -100px; z-index: 998;}
+.loading_only img{ margin-top: 9px;}
+.loading_only span{ font-size: 14px; vertical-align: top; margin-left: 10px;}
+.loading_style_select{ width: 200px; height: 50px; position: absolute; left: 50%; top: 50%; margin-left: -100px; margin-top: -25px;}
+.loading_style_select input{ width: 80px; height: 35px; border: none; background-color: #f7a82f; font-size: 14px; color: #fff; cursor:pointer;}
+.loading_style_select .styLe_one{ margin-right: 5px;}
+.loading_style_select input:hover{opacity: 1; filter:alpha(opacity=100);}

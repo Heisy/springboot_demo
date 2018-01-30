@@ -1,0 +1,14 @@
+.person_info{width: 1935px; height:122px; background: url(../../images/my_assets_banner.png) no-repeat 0 0; padding-top: 27px; position: relative; left: 50%; margin-left: -967px; }
+.person_info_main{width:1000px; margin: 0 auto;}
+.person_info_main_left{ width: 96px; height: 96px; background-color: #fff; margin-right: 20px;}
+.person_info_main_left_portrait{ width: 90px; height: 90px; margin: 3px auto 0;}
+.person_info_main_right_top{ color: #2f3337; font-size: 18px; margin:15px 0 25px 0; }
+.person_info_main_right_bottom{ font-size: 13px; color:#5f6061; }
+.person_info_main_right_bottom .pic{padding-left:25px;}
+.person_info_main_right_bottom span{ display: inline-block; height: 25px; line-height: 25px; margin-right: 30px;}
+.person_info_main_right_bottom .number{ background: url(../../images/phone_icon.png) no-repeat left center;padding-left:20px; cursor: pointer;}
+.person_info_main_right_bottom .assets_user{ background: url(../../images/user_pic_icon.png) no-repeat left center; cursor: pointer;}
+.person_info_main_right_bottom .card{ background: url(../../images/card_manage.png) no-repeat left center; cursor: pointer;}
+.person_info_main_right_bottom .set_pwd{ background: url(../../images/set_icon.png) no-repeat left center; cursor: pointer;}
+
+

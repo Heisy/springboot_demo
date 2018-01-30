@@ -1,0 +1,43 @@
+.bank_card_manage{ width: 970px; margin:20px auto 0; padding: 0 15px; background-color: #fff; padding-bottom: 86px;}
+.bank_card_manage_h2{ height: 50px; line-height: 50px; border-bottom: 1px solid #e5e5e5; margin-bottom: 22px;}
+.bank_card_manage_content{ font-size: 14px;}
+.bank_card_manage_content_search{ margin-bottom: 22px;}
+.bank_card_manage_content_screening li span{ width: 114px; height: 38px; display: inline-block; text-align: right; line-height: 38px; padding-right: 10px; background-color: #f6f6f6; color: #777; margin-right: 18px;}
+.bank_card_manage_content_screening li a{ padding: 0 5px; height: 23px; display: inline-block; margin-right: 24px; line-height: 23px;}
+.bank_card_manage_content_screening li .active{background-color: #7fa1cd; color: #fff;}
+.bank_card_manage_content_text{ border:none;width: 220px; height: 30px; padding-left: 10px; border: 1px  solid #c0c0c0; margin-right: 10px;}
+.bank_card_manage_content_btn{ border: none; width: 66px; height: 30px; color: #383838; cursor: pointer;}
+.bank_card_manage_content_btn:hover{opacity: 0.8; filter:alpha(opacity=80);}
+.bank_card_manage_content_tab{ border-top: 1px solid #e0e0e0; border-bottom: 1px solid #e0e0e0; color: #777; background-color: #f8f8f8; padding-left: 25px;}
+.bank_card_manage_content_tab li{ height: 36px; line-height: 36px;float: left;}
+.bank_card_manage_content_tab li a{ padding: 0 3px; height: 34px; line-height: 35px; display: inline-block; margin-right: 20px;color: #777;}
+.bank_card_manage_content_tab li .active{ color: #2f3337; border-bottom: 2px solid #7fa1cd; font-weight: bold;}
+.bank_card_manage_content_tab .title{ width: 180px;  float: right; text-align: center;}
+.bank_card_manage_content .product_name{ font-weight: normal; font-size: 16px; color: #2f3337; width:920px; border-bottom: 1px  solid #c1c1c1;height: 44px; line-height: 52px;margin-bottom: 21px;}
+.bank_card_manage_fund{ padding: 0 25px; }
+.bank_card_manage .fund_card_top{ height: 112px;}
+.bank_card_manage .fund_card{ width: 248px; height: 145px; border: 1px solid #b7ccd8; background-color: #f8f8f8;padding: 1px;margin-bottom:20px}
+.bank_card_manage .fund_card:hover{ border:2px solid #b7ccd8;padding: 0;}
+.bank_card_manage .fund_card .bank_pic{ margin: 16px 0 0 16px;}
+.bank_card_manage .fund_card .bank_card_num{ text-align: center; margin-top: 23px; font-size: 16px; color: #333;}
+.bank_card_manage .open_date{ height: 32px; line-height: 32px; border-top: 1px solid #e1e2e2; color: #999; font-size: 12px;padding-left: 13px;}
+.bank_card_manage .open_date .delete{ margin-left: 70px;color: #0078b6; display: none; cursor: pointer;}
+.bank_card_manage .add_bank_card{ width: 248px; height: 145px; border: 1px dashed #b7ccd8; background-color: #fff;padding: 1px;}
+.bank_card_manage  .marginR{ margin-right: 17px;}
+.bank_card_manage  .add_card_pic{ margin:34px 0 0 82px;}
+.bank_card_manage  .add_card_a{ display: block; padding: 0 5px; height: 20px; color: #0078b6; text-align: center; margin-top: 10px;}
+.bank_card_manage  .add_card_a:hover{ opacity: 0.8; filter:alpha(opacity=80);}
+
+.bank_card_manage .bank_card_show{ padding: 0 25px; }
+.bank_card_manage .bank_card_show .fund_product{ width: 248px; height: 126px; border: 1px  solid #b7ccd8; padding: 1px; background-color: #f8f8f8; }
+.bank_card_manage .bank_card_show .fund_product:hover{border: 2px  solid #b7ccd8;padding: 0;}
+.bank_card_manage .bank_card_show #fund_product_noPadding{padding: 0;}
+.bank_card_manage .fund_product_top { width: 248px; height: 93px; text-align: center;}
+.bank_card_manage .fund_product_top img{width: 177px; height: 92px; }
+.bank_card_manage .fund_product{ float: left; margin-right: 20px;}
+.bank_card_show_bank span{ height: 32px; line-height: 32px; border-top: 1px solid #e1e2e2; display: inline-block;}
+.bank_card_manage .bank_card_show_bank .dashed{ border:1px dashed #e1e2e2; width: 248px; height: 126px; background-color: #fff; float: left; text-align: center;}
+.bank_card_manage .bank_card_show_bank .dashed img{ margin-top:12px;width:71px; }
+.bank_card_manage .bank_card_show_bank .dashed a{ display: block; color: #0078b6; margin-top: 5px;}
+.bank_card_manage_fund_active{ display: block;}
+.bank_card_manage .display{ display: none;}

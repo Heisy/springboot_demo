@@ -1,0 +1,40 @@
+html{color:#000;background:#FFF;overflow-x:hidden !important;}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea,  blockquote, th, td{margin:0;padding:0;}
+*{margin:0; padding:0;}
+body{ font-size:12px; font-family:'微软雅黑' !important; background-color:#f5f5f5;}
+fieldset, img{border:0;}
+em, strong
+{font-style:normal;font-weight:normal;}
+li{list-style:none;}
+h1, h2, h3, h4, h5, h6
+img{ border:0;}
+{font-size:100%;font-weight:normal;}
+body, input, button, textarea{font-size:12px;font-family:Arial, Helvetica, sans-serif;overflow: hidden;}
+a{ text-decoration:none;outline:none;}
+a:hover{ cursor:pointer;}
+th, td{vertical-align:top;}
+.clearfix:after{ content:''; clear:both; display:block; overflow:hidden;}
+.clear{ clear:both;}
+.radius{ border-radius:5px; -webkit-border-radius:5px; -moz-border-radius:5px; -os-border-radius:5px; }
+.shadow{box-shadow: 0 1px 1px #999;-moz-box-shadow: 0 1px 1px #999;-webkit-box-shadow: 0 1px 1px #999;-os-box-shadow: 0 1px 1px #999;}
+.indent{ text-indent: 8px;}
+.content{width:1000px; margin:30px auto 0;}
+.body_shadow{background-color: #000;display: none;height: 100%;left: 0;opacity: 0.5;filter:alpha(opacity=50);position: absolute;top: 0;width: 100%;z-index: 5;}
+input{ font-family: '微软雅黑';}
+.radius_3{border-radius:3px;}
+.alpha{opacity: 0.8; filter:olpha(opacity=80);}
+*:focus {outline: none;}
+.fl{ float: left;}
+.fr{float: right;} 
+
+.div_shadow{background-color: #000; display: none; opacity: 0.3;filter:alpha(opacity=30);position: absolute;top: 0;z-index: 5;}
+.div_loading{ display:none; box-shadow: 0 1px 10px #ccc; border: 2px solid #fff; background-color: #fff; opacity: 1; filter:alpha(opacity=100);position: absolute; z-index: 998;}
+
+.placeholder {opacity: 1; filter:alpha(opacity=100); color: #666}
+
+.text-align-right{text-align: right;}
+.padding-right-20{padding-right: 20px}
+
+.err_info {display: inline-block; color: #FF0000;font-size: 13px}
+
+.current_content a {height: 25px; width: 110px;  display: inline-block;  line-height: 25px;  background-color: #f4f4f4;  color: #000;  text-align: center;  border-radius: 3px;  -webkit-border-radius: 3px; margin: 0 5px 0 0px;}

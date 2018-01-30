@@ -1,0 +1,22 @@
+.change_pwd{ width: 960px; margin: 0 auto 250px; height: 584px; background-color: #fff; margin-top: 20px;padding:0 20px ;}
+.change_pwd h2{ height: 49px; line-height: 49px; border-bottom: 1px solid #e5e5e5;margin-bottom: 43px; font-size: 16px; color: #383838;}
+.change_pwd ul{ margin: 0;margin-left: 160px;}
+.change_pwd ul li{ height: 30px; line-height: 30px; margin-bottom: 20px;}
+.change_pwd ul li span{ width: 139px; display: inline-block; color: #4c4c4c; font-size: 14px; text-align: right; padding-right: 11px;}
+.change_pwd ul li .input{ vertical-align: middle; height: 30px; line-height: 30px;width: 212px; padding-left: 8px;}
+.change_pwd ul li label{ margin-left: 20px; color: red;}
+.change_pwd ul li .btn{ width: 115px; height: 40px; border: none; background-color: #f8a82e; font-size: 14px; color: #fff;}
+.change_pwd ul li .btn:hover{ opacity: 0.8; filter:alpha(opacity=80);}
+
+.set_pwd{width: 960px; margin: 0 auto 250px; height: 584px; background-color: #fff; margin-top: 20px;padding:0 20px ;}
+.set_pwd h2{height: 49px; line-height: 49px; border-bottom: 1px solid #e5e5e5;margin-bottom: 43px; font-size: 16px; color: #383838;}
+.set_pwd ul{ margin: 0;margin-left: 160px;}
+.set_pwd ul li{ height: 30px; line-height: 30px; margin-bottom: 20px;}
+.set_pwd ul li span{ width: 139px; display: inline-block; color: #4c4c4c; font-size: 14px; text-align: right; padding-right: 11px;}
+.set_pwd ul li .set_pwd_input{ vertical-align: middle; height: 30px; line-height: 30px;width: 212px; padding-left: 8px;}
+.set_pwd ul li label{ margin-left: 20px; color: red;}
+.set_pwd ul li .set_pwd_btn{ width: 115px; height: 40px; border: none; background-color: #f8a82e; font-size: 14px; color: #fff;}
+.set_pwd ul li .set_pwd_btn:hover{ opacity: 0.8; filter:alpha(opacity=80);}
+.set_pwd li b{ font-weight: normal;}
+.set_pwd .send_message{border: none; width: 136px; height: 30px; display: inline-block; background-color: #f3f3f3; color：4d4d4d#; margin-left: 14px; }
+.set_pwd span .red{ color: #fe0000; font-style: normal;}

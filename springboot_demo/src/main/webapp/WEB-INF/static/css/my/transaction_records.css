@@ -1,0 +1,26 @@
+.transaction_records{width: 700px; background-color: #fff;color: #383838;  padding:10px 20px 30px 20px; display: inline-block; margin-left: 20px;}
+.transaction_records h3{height: 30px; line-height: 30px;padding-bottom: 10px;font-size: 14px;}
+.transaction_records_data_top li { width:700px; border-top: 1px solid #ccc; height:32px; line-height: 32px;}
+.transaction_records_data_top .transaction_records_data_top_time{ height: 50px; line-height: 50px;}
+.transaction_records_data_top li span{ margin-right:10px;color:#777; font-size:14px;width: 86px; display: inline-block; background-color: #f6f6f6; text-indent: 8px;}
+.transaction_records_data_top_bottom_line{ border-bottom: 1px solid #ccc;}
+.transaction_records_data_top_time input{ width: 110px; height: 30px; line-height: 30px;}
+.transaction_records_data_top_time_line{font-style: italic; width: 14px; display: inline-block; text-align: center;}
+.transaction_records_data_top_time_btn{ width: 68px; height: 28px; line-height: 30px; display: inline-block; background-color: #f4f4f4; text-align: center; color: #000;border:1px solid #ccc;margin-left: 12px;}
+.transaction_records_data_top_time_btn:hover{ filter:alpha(opacity=80); opacity: 0.8; }
+.transaction_records_data_top b{ font-weight: normal; margin-right: 20px;}
+.transaction_records_data_top_bottom_line_selected{ width: 40px; display: inline-block; text-align: center; background-color: #7fa1cd; color: #fff; height: 23px; line-height: 23px;}
+.transaction_records_data_top_type_selected{width: 40px; display: inline-block; text-align: center; background-color: #7fa1cd; color: #fff; height: 23px; line-height: 23px;}
+.classification_selected{width: 50px; display: inline-block; text-align: center; background-color: #7fa1cd; color: #fff; height: 23px; line-height: 23px;}
+.transaction_records_data_bottom{ margin-top: 22px;}
+.transaction_records_data_bottom table th{text-align:left;text-indent: 18px;height: 34px; line-height: 34px; color: #8b8b8b; border-bottom: 1px solid #ccc;border-right: 1px solid #ccc;}
+.transaction_records_data_bottom table td{ text-align:left;text-indent: 18px;height: 43px; }
+.transaction_records_data_bottom_middle{ height: 43px; line-height: 43px;}
+.transaction_records_data_bottom_paddingTop{ padding-top: 5px;height: 38px;}
+.transaction_records_data_bottom_amount{ color: #e1aa00;}
+.transaction_records_data_bottom_details{ color: #73a3cb; cursor: pointer;}
+.transaction_records_data_bottom_orderNum{ color: #999;}
+.transaction_records_data_top b{ cursor: pointer;}
+
+.transaction_records_data_top a{ color: #222; padding: 0 8px; font-size: 14px}
+.transaction_records_active{padding: 0 8px; display: inline-block; text-align: center; background-color: #7fa1cd; color: #fff !important; height: 23px; line-height: 23px;}

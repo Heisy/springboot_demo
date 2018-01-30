@@ -1,0 +1,90 @@
+#login{ width: 102px; }
+#login a{
+    margin: 17px 15px 0 0;
+}
+.addBankCard{ width: 960px; margin: 0 auto; padding:0 20px 60px 20px; background-color: #fff; }
+.addBankCard h2{ font-size: 16px; height: 50px; line-height: 50px; border-bottom: 1px solid #e5e5e5; padding-left: 3px; margin-bottom: 20px;}
+.person_info{ background: url(../../images/my_assets_banner.png) no-repeat 0 0; height: 149px; width: 1935px;}
+.addBankCard_content_li_leftSpan{ width: 161px; display: inline-block; text-align: right; margin-right: 5px; font-size: 14px; color: #4c4c4c; *display: inline; *zoom:1;}
+.symbol_explain{ height: 36px; line-height: 36px; font-size: 13px;}
+.symbol_explain .symbol_explain_title{ width: 766px; display: inline-block; background-color: #f3fded; border: 1px solid #d8efcc;}
+.symbol_explain span{}
+.symbol_explain b{ font-weight: normal; color: #fff; background: url(../../images/symbol_explain_title.png) no-repeat 0 0; width: 95px;display: inline-block; text-align: center; }
+.symbol_explain i{ font-style: normal; padding: 0 8px; display: inline-block; text-indent: 28px; color: #333;}
+.symbol_explain_info1{ background: url(../../images/prove_icon.png) no-repeat 12px center;}
+.symbol_explain_info2{ background: url(../../images/fast_icon.png) no-repeat 12px center;}
+.symbol_explain_info3{ background: url(../../images/order_icon.png) no-repeat 12px center;}
+.addBankCard_content_ul{ display: inline-block; width: 770px;}
+.addBankCard_content_ul li{ width: 238px; height: 72px; border: 1px solid #ddd; float: left; margin:0 14px 14px 0; padding: 1px;}
+.addBankCard_content_ul li p{ width: 60px; height: 50px; padding-left: 180px;}
+.addBankCard_content_ul img{ margin: 14px 10px 0 0;}
+.addBankCard_content_ul .nongye_bank{ background: url(../../images/bank-nongye-116x23.png) no-repeat  15px center;}
+.addBankCard_content_ul .jianshe_bank{ background: url(../../images/bank-jianshe-116x23.png) no-repeat  15px center;}
+.addBankCard_content_ul .zhaoshang_bank{ background: url(../../images/bank-zhaoshang-116x23.png) no-repeat  15px center;}
+.addBankCard_content_ul .gongshang_bank{ background: url(../../images/bank-gongshang-116x23.png) no-repeat  15px center;}
+.addBankCard_content_ul .pingan_bank{ background: url(../../images/bank-pingan-116x23.png) no-repeat  15px center;}
+.addBankCard_content_ul .pufa_bank{ background: url(../../images/bank-pufa-116x23.png) no-repeat  15px center;}
+.addBankCard_content_ul .zhongxin_bank{ background: url(../../images/bank-zhongxin-116x23.png) no-repeat  15px center;}
+.addBankCard_content_ul .guangda_bank{ background: url(../../images/bank-guangda-116x23.png) no-repeat  15px center;}
+.addBankCard_content_ul .minsheng_bank{ background: url(../../images/bank-minsheng-116x23.png) no-repeat  15px center;}
+.addBankCard_content_ul .guangfa_bank{ background: url(../../images/bank-guangfa-116x23.png) no-repeat  15px center;}
+.addBankCard_content_ul .huaxia_bank{ background: url(../../images/bank-huaxia-116x23.png) no-repeat  15px center;}
+.addBankCard_content_ul .shanghai_bank{ background: url(../../images/bank-shanghai-116x23.png) no-repeat  15px center;}
+.addBankCard_content_ul .noMargin{ margin: 0;}
+.addBankCard_content .marginBtm{ margin-bottom: 20px;}
+.addBankCard_content_ul li .paddingL{width: 30px; padding-left: 210px;}
+.addBankCard_content_ul li span{ position: relative;z-index: 1 ;width: 178px; height: 21px; line-height: 21px; display: block; background-color: #f8f8f8; padding-left: 60px; position: relative; z-index: 1;}
+.addBankCard_content_ul li b{margin-right:14px;}
+.addBankCard_content_ul li i{  font-style:normal;color: #ff2900;}
+.addBankCard_content_bank_info .open_bank_info{ vertical-align: top;}
+.addBankCard_content .bind_info ul{ display:inline-block;width: 752px; height: 69px; padding:7px 0 0 16px; background-color: #fdefe1; font-size: 12px;}
+.addBankCard_content .bind_info li{ background: url(../../images/point_icon.png) no-repeat left center; padding-left: 14px; color: #34312e; height: 30px; line-height: 30px;}
+.addBankCard_content .bind_info span{ height: 76px; vertical-align: bottom;}
+.addBankCard_content .lock{ border: 1px solid #c1c1c1; width: 200px; height:30px; display: inline-block; padding-left: 20px; background: url(../../images/lock_icon.png) no-repeat 5px center;}
+.addBankCard_content input{ border: none; width: 200px; height: 30px;}
+.addBankCard_content input{}
+.addBankCard_content .border{border: 1px solid #c1c1c1; width: 212px; height: 30px; padding-left: 8px;}
+.bank_check_prompt p{ display: inline-block; color: #999;}
+.addBankCard_content .submit_confirm{ font-size: 14px;width: 165px; height: 39px; color: #fff; background-color: #f8a92f; cursor: pointer;}
+.addBankCard_content .submit_confirm:hover{opacity: 0.8; filter:alpha(opacity=80); }
+.agreement p{ display: inline-block; color: #80aaf2;}
+#addBankCard_content_ul_li_active{border: 2px solid #e22b2b; background: url(../../images/selected_ok.png) no-repeat right bottom; position: relative; z-index: 2 !important;padding:0;}
+#gaodu{ width: 156px;}
+#body_shadow{ background-color: #000;height: 127%;left: 0;opacity: 0.5; filter:alpha(opacity=50);position: absolute;top: 0;width: 100%;z-index: 100; display: none;}
+.layout{ width: 615px; height: 286px; position: absolute; left: 50%; top: 50%; margin-left: -307px; margin-top: -143px; background-color: #fff; z-index: 111; overflow: hidden; display: none;}
+.layout h2{ height: 47px; line-height: 47px; background-color: #f9f9f9; border: 1px solid #d9d9d9; padding-left: 18px;}
+.layout p{ background: url(../../images/info_icon.png) no-repeat left center; padding-left: 17px; margin: 33px 0 33px 0; }
+.layout_content{ width: 474px; margin: 0 auto;}
+.layout_content span{ width: 66px; display: inline-block;}
+.layout_content b{ font-weight: normal;  background: url(../../images/shuangjiantou.png) no-repeat right center; padding-right: 10px; color: #08c;}
+.layout_content li{ height: 30px; line-height: 30px;}
+.layout_content li span{ font-size:14px; color: #4c4c4c; }
+.checkMa input{ width: 84px; height: 30px;padding-left: 8px;}
+.layout_content ul{ margin:0;margin-left: 37px;}
+.layout_content .checkMa{ margin-bottom:5px; }
+.layout_content .layout_content_btn{ padding:none !important;width: 105px; height: 38px; color: #fff; border:none; background-color: #f8a930; font-size: 14px;}
+.layout_content .layout_content_btn:hover{opacity: 0.8; filter:alpha(opacity=80);}
+.layout h2 img{ margin-left: 496px; cursor: pointer;}
+.layout_content p strong{ font-weight: bold; margin: 0 3px;}
+
+.addCard_finished{ width: 960px; height: 414px; margin: 0 auto; }
+.addCard_finished_content{ width: 230px; margin: 0 auto;padding-top: 96px; color: #383838;}
+.addCard_finished_content p{ font-size: 15px; font-weight: bold; background: url(../../images/finished.png) no-repeat left center; padding-left: 56px; height: 32px; line-height: 32px; margin-bottom:36px; }
+.addCard_finished_content a{ font-size: 14px; margin-left: 76px; color: #383838;}
+
+.regist_confirm_div{ display:none; text-align: center; font-size: 14px;position: absolute; left:50%;top: 50%; margin-left: -150px;width:300px;margin-top: -100px; padding: 40px 0 0 0; height: 110px; box-shadow: 0 1px 10px #ccc;z-index: 99; background-color: white;}
+.regist_confirm_div p{ text-align: center; margin-bottom: 16px;}
+.regist_confirm_div .btn{ border:none;width: 60px; height: 25px; font-size: 14px;}
+.regist_confirm_div .btn:hover{color: #fff; background-color: #f8a930;}
+.regist_confirm_div .successful{ margin-right: 5px;}
+
+.result{ height: 400px; width: 1000px; background-color:#fff;}
+.result_text{ padding-top:90px; margin-left: 400px;}
+.result_text a{color: #383838; font-size: 14px; margin-left: 47px;}
+.result_text span{  margin-left:auto;margin-right:auto;margin-bottom:35px; height: 32px; display: block; line-height: 32px; font-size: 14px; font-weight: bold;display:block;}
+.result_text span img{vertical-align: middle;margin-right: 15px;}
+.shift_content{ margin-bottom: 200px;}
+
+.addBankCard_content_li_show{color:#3b8700;width:340px !important;height: 40px !important;line-height: 40px !important;padding-left: 8px;  display: inline-block; *zoom: 1; font-size: 26px;position: absolute;border: 1px solid #dcd8bd; background-color: #fffdc2; }
+.show_bank_num{width:340px !important;height: 40px !important;line-height: 40px !important;position: absolute;top: -50px; display: none;}
+#bank_card_input{position: relative;}

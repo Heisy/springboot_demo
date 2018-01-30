@@ -1,0 +1,256 @@
+.top_color{
+    height: 3px;
+    font-size: 0px;
+    line-height: 0px;
+    overflow: hidden;
+    width: 100%;
+	background: #e04054;
+}
+.top_color p{
+    float: left;
+    width: 5%;
+    height: 3px;
+    font-size: 0px;
+    line-height: 0px;
+}
+ .top_color .top_color_01{
+    background: #00a0e8;
+    -webkit-animation: top_color_01 4s ease-in infinite;
+    -moz-animation: top_color_01 4s ease-in infinite;
+    -ms-animation: top_color_01 4s ease-in infinite;
+    -o-animation: top_color_01 4s ease-in infinite;
+}
+.top_color .top_color_02{
+    background: #1abc9c;
+    -webkit-animation: top_color_02 4s ease-in infinite;
+    -moz-animation: top_color_02 4s ease-in infinite;
+    -ms-animation: top_color_02 4s ease-in infinite;
+    -o-animation: top_color_02 4s ease-in infinite;
+}
+.top_color .top_color_03{
+    background: #f8b62c;
+    -webkit-animation: top_color_03 4s ease-in infinite;
+    -moz-animation: top_color_03 4s ease-in infinite;
+    -ms-animation: top_color_03 4s ease-in infinite;
+    -o-animation: top_color_03 4s ease-in infinite;
+}
+.top_color .top_color_04{
+    background: #e04054;
+    *width: 24%;
+    -webkit-animation: top_color_04 4s ease-in infinite;
+    -moz-animation: top_color_04 4s ease-in infinite;
+    -ms-animation: top_color_04 4s ease-in infinite;
+    -o-animation: top_color_04 4s ease-in infinite;
+}
+.top_color .top_color_05{
+    background: #00a0e8;
+    -webkit-animation: top_color_01 4s ease-in infinite;
+    -moz-animation: top_color_01 4s ease-in infinite;
+    -ms-animation: top_color_01 4s ease-in infinite;
+    -o-animation: top_color_01 4s ease-in infinite;
+}
+.top_color .top_color_06{
+    background: #1abc9c;
+    -webkit-animation: top_color_02 4s ease-in infinite;
+    -moz-animation: top_color_02 4s ease-in infinite;
+    -ms-animation: top_color_02 4s ease-in infinite;
+    -o-animation: top_color_02 4s ease-in infinite;
+}
+.top_color .top_color_07{
+    background: #f8b62c;
+    -webkit-animation: top_color_03 4s ease-in infinite;
+    -moz-animation: top_color_03 4s ease-in infinite;
+    -ms-animation: top_color_03 4s ease-in infinite;
+    -o-animation: top_color_03 4s ease-in infinite;
+}
+.top_color .top_color_08{
+    background: #e04054;
+    *width: 24%;
+    -webkit-animation: top_color_04 4s ease-in infinite;
+    -moz-animation: top_color_04 4s ease-in infinite;
+    -ms-animation: top_color_04 4s ease-in infinite;
+    -o-animation: top_color_04 4s ease-in infinite;
+}
+.top_color .top_color_09{
+    background: #00a0e8;
+    -webkit-animation: top_color_01 4s ease-in infinite;
+    -moz-animation: top_color_01 4s ease-in infinite;
+    -ms-animation: top_color_01 4s ease-in infinite;
+    -o-animation: top_color_01 4s ease-in infinite;
+}
+.top_color .top_color_10{
+    background: #1abc9c;
+    -webkit-animation: top_color_02 4s ease-in infinite;
+    -moz-animation: top_color_02 4s ease-in infinite;
+    -ms-animation: top_color_02 4s ease-in infinite;
+    -o-animation: top_color_02 4s ease-in infinite;
+}
+.top_color .top_color_11{
+    background: #f8b62c;
+    -webkit-animation: top_color_03 4s ease-in infinite;
+    -moz-animation: top_color_03 4s ease-in infinite;
+    -ms-animation: top_color_03 4s ease-in infinite;
+    -o-animation: top_color_03 4s ease-in infinite;
+}
+.top_color .top_color_12{
+    background: #e04054;
+    *width: 24%;
+    -webkit-animation: top_color_04 4s ease-in infinite;
+    -moz-animation: top_color_04 4s ease-in infinite;
+    -ms-animation: top_color_04 4s ease-in infinite;
+    -o-animation: top_color_04 4s ease-in infinite;
+}
+.top_color .top_color_13{
+    background: #00a0e8;
+    -webkit-animation: top_color_01 4s ease-in infinite;
+    -moz-animation: top_color_01 4s ease-in infinite;
+    -ms-animation: top_color_01 4s ease-in infinite;
+    -o-animation: top_color_01 4s ease-in infinite;
+}
+.top_color .top_color_14{
+    background: #1abc9c;
+    -webkit-animation: top_color_02 4s ease-in infinite;
+    -moz-animation: top_color_02 4s ease-in infinite;
+    -ms-animation: top_color_02 4s ease-in infinite;
+    -o-animation: top_color_02 4s ease-in infinite;
+}
+.top_color .top_color_15{
+    background: #f8b62c;
+    -webkit-animation: top_color_03 4s ease-in infinite;
+    -moz-animation: top_color_03 4s ease-in infinite;
+    -ms-animation: top_color_03 4s ease-in infinite;
+    -o-animation: top_color_03 4s ease-in infinite;
+}
+.top_color .top_color_16{
+    background: #e04054;
+    *width: 24%;
+    -webkit-animation: top_color_04 4s ease-in infinite;
+    -moz-animation: top_color_04 4s ease-in infinite;
+    -ms-animation: top_color_04 4s ease-in infinite;
+    -o-animation: top_color_04 4s ease-in infinite;
+}
+.top_color .top_color_17{
+    background: #00a0e8;
+    -webkit-animation: top_color_01 4s ease-in infinite;
+    -moz-animation: top_color_01 4s ease-in infinite;
+    -ms-animation: top_color_01 4s ease-in infinite;
+    -o-animation: top_color_01 4s ease-in infinite;
+}
+.top_color .top_color_18{
+    background: #1abc9c;
+    -webkit-animation: top_color_02 4s ease-in infinite;
+    -moz-animation: top_color_02 4s ease-in infinite;
+    -ms-animation: top_color_02 4s ease-in infinite;
+    -o-animation: top_color_02 4s ease-in infinite;
+}
+.top_color .top_color_19{
+    background: #f8b62c;
+    -webkit-animation: top_color_03 4s ease-in infinite;
+    -moz-animation: top_color_03 4s ease-in infinite;
+    -ms-animation: top_color_03 4s ease-in infinite;
+    -o-animation: top_color_03 4s ease-in infinite;
+}
+.top_color .top_color_20{
+    background: #e04054;
+    *width: 24%;
+    -webkit-animation: top_color_04 4s ease-in infinite;
+    -moz-animation: top_color_04 4s ease-in infinite;
+    -ms-animation: top_color_04 4s ease-in infinite;
+    -o-animation: top_color_04 4s ease-in infinite;
+}
+@-webkit-keyframes top_color_01{
+    0%{background: #00a0e8;}
+    25%{background: #1abc9c;}
+    50%{background: #f8b62c;}
+    75%{background: #e04054;}
+}
+@-moz-keyframes top_color_01{
+    0%{background: #00a0e8;}
+    25%{background: #1abc9c;}
+    50%{background: #f8b62c;}
+    75%{background: #e04054;}
+}
+@-ms-keyframes top_color_01{
+    0%{background: #00a0e8;}
+    25%{background: #1abc9c;}
+    50%{background: #f8b62c;}
+    75%{background: #e04054;}
+}
+@-o-keyframes top_color_01{
+    0%{background: #00a0e8;}
+    25%{background: #1abc9c;}
+    50%{background: #f8b62c;}
+    75%{background: #e04054;}
+}
+@-webkit-keyframes top_color_02{
+    0%{background: #1abc9c;}
+    25%{background: #f8b62c;}
+    50%{background: #e04054;}
+    75%{background: #00a0e8;}
+}
+@-moz-keyframes top_color_02{
+    0%{background: #1abc9c;}
+    25%{background: #f8b62c;}
+    50%{background: #e04054;}
+    75%{background: #00a0e8;}
+}
+@-ms-keyframes top_color_02{
+    0%{background: #1abc9c;}
+    25%{background: #f8b62c;}
+    50%{background: #e04054;}
+    75%{background: #00a0e8;}
+}
+@-o-keyframes top_color_02{
+    0%{background: #1abc9c;}
+    25%{background: #f8b62c;}
+    50%{background: #e04054;}
+    75%{background: #00a0e8;}
+}
+@-webkit-keyframes top_color_03{
+    0%{background: #f8b62c;}
+    25%{background: #e04054;}
+    50%{background: #00a0e8;}
+    75%{background: #1abc9c;}
+}
+@-moz-keyframes top_color_03{
+    0%{background: #f8b62c;}
+    25%{background: #e04054;}
+    50%{background: #00a0e8;}
+    75%{background: #1abc9c;}
+}
+@-ms-keyframes top_color_03{
+    0%{background: #f8b62c;}
+    25%{background: #e04054;}
+    50%{background: #00a0e8;}
+    75%{background: #1abc9c;}
+}
+@-o-keyframes top_color_03{
+    0%{background: #f8b62c;}
+    25%{background: #e04054;}
+    50%{background: #00a0e8;}
+    75%{background: #1abc9c;}
+}
+@-webkit-keyframes top_color_04{
+    0%{background: #e04054;}
+    25%{background: #00a0e8;}
+    50%{background: #1abc9c;}
+    75%{background: #f8b62c;}
+}
+@-moz-keyframes top_color_04{
+    0%{background: #e04054;}
+    25%{background: #00a0e8;}
+    50%{background: #1abc9c;}
+    75%{background: #f8b62c;}
+}
+@-ms-keyframes top_color_04{
+    0%{background: #e04054;}
+    25%{background: #00a0e8;}
+    50%{background: #1abc9c;}
+    75%{background: #f8b62c;}
+}
+@-o-keyframes top_color_04{
+    0%{background: #e04054;}
+    25%{background: #00a0e8;}
+    50%{background: #1abc9c;}
+    75%{background: #f8b62c;}
+}

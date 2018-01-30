@@ -1,0 +1,141 @@
+.recharge_title_div{
+	float:left;
+	margin-right:55px;
+}
+.recharge_title{
+	height: auto;
+	overflow: hidden;
+	width:auto;
+	/*width:100%;*/
+	padding: 17px 25px;
+	line-height: 22px;
+	background-color: #f6f8fa;
+	border: 3px solid #e7e9ed;
+}
+.recharge_main{
+	margin-top:30px;
+	
+}
+.recharge_main_one{
+	width:50%;
+	margin:0 auto;
+	height:270px;;
+	overflow:hidden;
+	background-color:white;
+}
+.recharge_bank_list{
+	float:left;
+	margin-right:30px;
+	margin-top: 55px;
+}
+.recharge_bank{
+	overflow: auto;
+	margin-bottom: 20px;
+	margin-left:40px;
+	color: #666;
+	line-height:40px;
+}
+#zhifu{
+	font-size:14px;
+}
+#bank_img{
+	width:123px;
+	height:36px;
+	border:1px #e7e9ed solid;
+}
+.bank_num{
+	color:red;
+	font-weight:Arial;
+	font-size:14px;
+}
+.bank_button_div{
+	float:left;
+	margin-left:140px;
+}
+.bank_button_div div{
+	background: url(../images/btn_bg.png) 0 -87px repeat-x;
+	border-radius: 3px;
+	cursor: pointer;
+	display: inline-block;
+	padding: 0 30px;
+	height: 40px;
+	line-height: 41px;
+	vertical-align: middle;
+	font-size: 14px;
+	color: #fff;
+	text-align: center;
+}
+.hidden_block{
+	display:none;
+	background-color:rgba(0,0,0,0.6);
+	position:absolute;
+}
+.recharge_table{
+	position: fixed;
+	left: 680px;
+	top: 200px;
+	z-index: 100002;
+	visibility: visible;
+	background-color:white;
+}
+.d-titleBar{
+	position: relative;
+	height: 28px;
+	line-height: 28px;
+	padding: 0 28px 0 10px;
+	background: linear-gradient(top, #fff, #f1f1f1);
+	background: -moz-linear-gradient(top, #fff, #f1f1f1);
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#f1f1f1));
+}
+.d-close{
+	width: 21px;
+	height: 21px;
+	padding: 0;
+	top: 4px;
+	right: 4px;
+	line-height: 21px;
+	font-size: 18px;
+	color: #666;
+	text-align: center;
+	display: block;
+	position: absolute;
+	text-decoration: none;
+}
+.d-main{
+	  width: auto;
+  height: auto;
+    text-align: left;
+  vertical-align: middle;
+  min-width: 9em;
+}
+.d-content{
+	  padding: 10px;
+}
+.pay_dialog{
+	  width: 410px;
+  height: 110px;
+}
+.pay_dialog .pay_suc{
+	  height: 20px;
+  margin-top: 18px;
+  vertical-align: middle;
+}
+.pay_dialog .pay_suc span.suc{
+	  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background: url(../images/btn_bg.png) 0 -283px no-repeat;	
+}
+.pay_dialog .pay_suc em{
+	  display: inline-block;
+  margin-left: 5px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #333;
+}
+.pay_dialog .pay_suc span.err{
+	  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background: url(../images/btn_bg.png) 0 -206px no-repeat;
+}

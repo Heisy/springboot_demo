@@ -1,0 +1,69 @@
+.err_info {         
+    display: inline-block;
+    color: #FF0000;
+}
+
+
+.err_info2 {         
+	margin-left: 13px;
+    display: inline-block;
+    color: #FF0000;
+}
+/*注册步骤一*/
+.login_only{ padding-top: 17px; float: right;}
+.login_only a{border: 1px solid #ccc;color: #3a3a3a;float: left;font-size: 14px;height: 40px;line-height: 40px;margin-right: 15px;text-align: center;width: 102px; display: block;}
+.login_only a:hover{background-color: #f82f3c; color: #fff;}
+.steps{ width: 850px; margin:40px auto 0; background-color: #f5f5f5; margin-bottom:30px;}
+.steps_tup{ padding-left: 25px; margin: 0; margin-bottom: 5px;}
+.steps_pic{ width: 40px; height: 40px; float: left;}
+.steps_text .steps_text_ok{color: #4d4d4d ;}
+.steps_line{width: 208px; height: 40px; background: url(../images/register_line.png) repeat-x 0 0; float: left;}
+.steps_lined{width: 208px; height: 40px; background: url(../images/register_lined.png) repeat-x 0 0; float: left;}
+.steps_text li{ float: left; width: 85px; height: 25px; line-height: 25px; font-size: 14px; color: #909090;}
+.marginRL{ margin:0 165px;}
+.steps .set_pwd{ margin-right: 180px;}
+.content_info{ height:356px;padding-bottom: 60px;width: 892px; margin: 0 auto; background-color: #fff; padding-top: 50px;}
+.content_info_text{ width: 355px; margin:0 auto;}
+.content_info_text{margin-bottom: 15px;}
+.content_info_text li{ margin-bottom: 15px;}
+.content_info_text li span{text-align: right; width: 70px; height: 25px;line-height: 30px; display:block; float: left;}
+.content_info_text li div{ width: 270px; height: 30px; float: right; border:1px solid #ccc; }
+.content_info_text li input{ padding-left: 8px; border: none; height: 30px; width: 232px;}
+.account{ background: url(../images/register_username.png) no-repeat 248px center;}
+.phone_num{ background: url(../images/register_phone.png) no-repeat 248px center;}
+.pwd{ background: url(../images/register_pwd.png) no-repeat 248px center;}
+.re_pwd{ background: url(../images/register_pwd.png) no-repeat 248px center;}
+.content_info_text img{vertical-align: middle; margin-left: 10px;}
+.checked{ vertical-align: middle; margin:0 5px 0 13px; }
+.agreement{ color: #da273d;}
+.content_info_text_btn input{  border:none;width: 202px; height: 40px !important; margin-left: 83px; line-height: 40px; display: block;color: #fff; font-size: 14px; background-color: #f72e39; text-align: center;}
+.content_info_text_btn input:hover{opacity: 0.8;filter:alpha(opacity=80);}
+.register_footer{ margin-top: 50px;}
+
+.step1_text_btn{cursor: pointer;}
+
+.step2{height:346px;padding-bottom: 60px;width: 892px; margin: 0 auto; background-color: #fff; padding-top: 60px;color: #4d4d4d;}
+.step2_text{ width: 450px; margin: 0 auto; font-size: 14px;}
+.step2_text li{ height: 50px;}
+.step2_text li input{ width: 160px; height: 30px;}
+.verification_input{ padding-left:8px;width: 152px !important; height: 30px;}
+.step2_text li span{ text-align:right; margin-right:12px;width: 110px;height: 25px; line-height: 25px;display: inline-block;}
+.step2_text li b{ font-weight: normal;}
+.step2_text_red{ font-style: normal; color: #fe0000;}
+.step2_text_send{ width: 136px; height: 30px; display: inline-block; color: #4d4d4d; margin-left: 8px; text-align: center; line-height: 30px; background-color: #fdfdfd; border:1px solid #ccc;}
+.step2_text_send:hover{opacity: 0.8;filter:alpha(opacity=80);}
+.step2_text_btn{ border:none;width: 202px; height: 40px !important; line-height: 40px; text-align: center; font-size: 14px; margin-left: 126px; color: #fff; display: block; background-color: #f72f3b; margin-top: 60px; cursor: pointer;}
+.step2_text_btn:hover{opacity: 0.8;filter:alpha(opacity=80);}
+
+.step3_content{height:346px;padding-bottom: 60px;width: 652px; margin: 0 auto; background-color: #fff;color: #4d4d4d;padding: 60px 0 60px 240px;}
+.step3_content li{ height: 32px; line-height: 32px;margin-bottom: 18px;}
+.step3_content li span{ width:90px ;color: #4d4d4d; height: 32px; line-height: 32px; display: block; float: left; font-size: 14px; margin-right: 5px;}
+.step3_content li input{ height: 30px; display: block; float: left;width: 219px;padding-left: 8px;}
+.step3_text_btn{ width: 202px; height: 40px; background-color: #f82e3a; border: none; font-size: 14px; color: #fff;margin-left: 95px; margin-top: 5px;}
+.step3_text_btn:hover{opacity: 0.8;filter:alpha(opacity=80);}
+
+.step4{height:346px;padding-bottom: 60px;width: 892px; margin: 0 auto; background-color: #fff; padding-top: 60px;color: #4d4d4d;}
+.step4_content{ width: 240px; margin: 0 auto; padding-top: 80px;}
+.step4_content span{  margin-left:auto;margin-right:auto;margin-bottom:35px; height: 32px; display: block; line-height: 32px; font-size: 14px; font-weight: bold;display:block;}
+.step4_content span img{vertical-align: middle;margin-right: 15px;}
+.step4_content a{ text-align: center; color: #4675d6; margin-left:45px;  }
